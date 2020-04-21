@@ -20,3 +20,7 @@ Step2:Clean and Build
 Step3:Run on server
 Step4.Hit the url http://localhost:8080/Nearest_Pharma_API
 
+## Database Configuration
+ 
+The database is hosted on the cloud through Microsoft Azure SQL Database. In case you are not able to make a conncection to the hosted database,please try with setting up a local SQL database with the database export included in the package.
+
